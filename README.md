@@ -1,4 +1,4 @@
-# Data Scientist
+# BI / Data Analyst
 
 ### Education
 Master in Data Analysis
